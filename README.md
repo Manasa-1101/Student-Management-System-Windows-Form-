@@ -3,19 +3,19 @@ A Windows Forms desktop application developed using C# and SQL Server to manage 
 The application supports full CRUD operations (Create, Read, Update, Delete) with proper validation and database connectivity using ADO.NET.
 Features
 
-1.Add new student details
+1. Add new student details
 
-2.View student records in DataGridView
+2. View student records in DataGridView
 
-3.Update existing student information
+3. Update existing student information
 
-4.Delete student records
+4. Delete student records
 
-5.Input validation for TextBoxes and ComboBoxes
+5. Input validation for TextBoxes and ComboBoxes
 
-6.Gender and Course selection using ComboBox (no manual typing)
+6. Gender and Course selection using ComboBox (no manual typing)
 
-7.Exception handling for database operations
+7. Exception handling for database operations
 
 Technologies Used
 
@@ -49,4 +49,3 @@ Project Experience
 
 
 
-DataGridView
