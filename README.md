@@ -31,12 +31,19 @@ Technologies Used
 sql
 
 CREATE TABLE StudentDataTable
+
 (
+
     ID INT  PRIMARY KEY IDENTITY(1,1),
+    
     FULL_NAME VARCHAR(100),
+    
     AGE INT,
+    
     GENDER VARCHAR(10),
+    
     COURSE VARCHAR(50)
+    
 );
 
 Project Experience
