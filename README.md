@@ -2,6 +2,7 @@ Student-Management-System
 
 A Windows Forms desktop application developed using C# and SQL Server to manage student records efficiently.
 The application supports full CRUD operations (Create, Read, Update, Delete) with proper validation and database connectivity using ADO.NET.
+
 Features
 
 1. Add new student details
